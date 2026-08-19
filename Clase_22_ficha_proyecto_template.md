@@ -4,15 +4,25 @@
 
 ## 1. Nombre interno del proyecto
 
-Ejemplo: "Asistente visual para Taller Cerámica Rukan"
+Clasificador y Analizador de Feedback para Proyectos de Diseño
 
-## 2. Problema (2-3 frases)
+## 2. Las agencias y equipos de diseño reciben grandes volúmenes de comentarios y reseñas de clientes sobre sus campañas visuales.
+Clasificar manualmente si un comentario es positivo, negativo o neutro toma mucho tiempo y puede ser subjetivo. 
+Esto dificulta detectar rápidamente qué propuestas necesitan ajustes urgentes antes de su publicación.
 
 Heredado de la Unidad 2 — o inventado si no tienes uno (ver "¿Y si no tienes problema heredado?" en `Clase_22_contenido.md`).
 
 ## 3. Usuario / cliente objetivo
 
-¿Para quién es esto? ¿Qué necesita, y por qué hoy no lo tiene resuelto?
+¿Para quién es esto? 
+Directores creativos, diseñadores y gestores de proyectos (account managers) en agencias de publicidad o estudios de diseño.
+
+¿Qué necesita?
+Una herramienta que categorice automáticamente el nivel de satisfacción del cliente respecto a las entregas gráficas y conceptos visuales.
+
+¿Por qué hoy no lo tiene resuelto?
+Actualmente la revisión se realiza de forma manual leyendo texto por texto, lo cual ralentiza los tiempos de respuesta e impide priorizar los cambios críticos.
+
 
 ## 4. Tipo de modelo que vas a necesitar
 
@@ -22,11 +32,13 @@ Heredado de la Unidad 2 — o inventado si no tienes uno (ver "¿Y si no tienes 
 
 ## 5. Modelos candidatos (2-3 concretos)
 
-Ejemplo: "GPT-4o (texto), Nano Banana (imagen)"
+Midjourney (v6 / v7): Excelente para concept art, mockups, fotografía publicitaria y exploración estética de altísima calidad.
 
-1.
-2.
-3.
+Adobe Firefly (Firefly Image 3): Integrado nativamente en Photoshop e Illustrator; ideal para generación comercial con derechos de uso seguros y gráficos vectoriales.
+
+Stable Diffusion 3.5 (de Stability AI en Hugging Face): Modelo de código abierto muy versátil para generar imágenes, aplicar ControlNet (mantener poses/estructuras de diseño) y personalizar estilos con LoRAs.
+
+DALL-E 3 / DALL-E 4 (OpenAI): Ideal para traducir instrucciones complejas en ilustraciones detalladas y diseño de empaques/packaging.
 
 ## 6. Roadmap del proyecto (se completa clase a clase)
 
