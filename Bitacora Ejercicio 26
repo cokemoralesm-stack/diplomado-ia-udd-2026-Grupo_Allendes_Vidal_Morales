@@ -1,1 +1,11 @@
+MODELO Lightricks/LTX-Video):
 
+Nombre completo: LTX-Video
+
+Autor / Organización: Lightricks
+
+Tamaño (número de parámetros): ~2 mil millones (2B parameters / 2 billion)
+
+Licencia: LTX-Video License (Licencia propia permisiva / Open Weights)
+
+Una limitación declarada en la model card: No está diseñado para generar video con audio de forma directa y puede presentar dificultades para generar textos legibles o detalles anatómicos muy complejos (como manos o rostros pequeños) dentro de las secuencias de video.
