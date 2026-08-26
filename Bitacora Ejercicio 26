@@ -1,3 +1,5 @@
+
+MODELO 01
 MODELO Lightricks/LTX-Video):
 
 Nombre completo: LTX-Video
@@ -10,6 +12,8 @@ Licencia: LTX-Video License (Licencia propia permisiva / Open Weights)
 
 Una limitación declarada en la model card: No está diseñado para generar video con audio de forma directa y puede presentar dificultades para generar textos legibles o detalles anatómicos muy complejos (como manos o rostros pequeños) dentro de las secuencias de video.
 
+
+MODELO 02
 | Dato                     | Información                                                                                                                                             |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nombre completo**      | `collagen/qwen2.5-0.5b-byomtest`                                                                                                                        |
@@ -17,3 +21,11 @@ Una limitación declarada en la model card: No está diseñado para generar vide
 | **Tamaño**               | **0.5B parámetros** (aprox. 490 millones)                                                                                                               |
 | **Licencia**             | **Apache-2.0**                                                                                                                                          |
 | **Limitación declarada** | Requiere una versión reciente de `transformers`; con versiones **anteriores a 4.37.0** puede aparecer el error `KeyError: 'qwen2'`. ([Hugging Face][1]) |
+
+
+MODELO 03
+1. Nombre completo: MOSS-SoundEffect-v2.0
+2. Autor: OpenMOSS-Team.
+3. Tamaño: 1.3 mil millones de parámetros (1.3B)
+4. Licencia: Apache 2.0.
+5. limitación declarada: Una limitación importante es que el modelo está pensado para generar efectos de sonido y no voz hablada o texto.
