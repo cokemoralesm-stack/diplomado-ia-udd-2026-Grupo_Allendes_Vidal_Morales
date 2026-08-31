@@ -10,3 +10,14 @@
 **Prompt:** Director creativo de 37 años, su vestimenta es estilo hipster, está en una agencia de publicidad, la luz del sol le llega por su ventana en el ocaso, el plano debe ser medio, que tenga una taza de café en su mano, la paleta cromática es cálida, el look debe ser híper realista.
 
 
+
+**EJERCICIO 2**
+
+![Imagen 01](03.png)
+
+**Prompt:** Director creativo liderando un brainstorming
+
+
+![Imagen 01](04.png)
+
+**Prompt:** Cambia el tiro de captura de la fotografía
