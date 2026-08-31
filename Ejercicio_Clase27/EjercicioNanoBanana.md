@@ -35,3 +35,14 @@
 
 ![Imagen 01](07.png)
 
+**EJERCICIO 3**
+
+![Imagen 01](08.png)
+
+**Prompt:** Combínalas en una composición coherente, teniendo en cuenta la primera imagen como el personaje principal, la segunda como el escenario y la tercera como el estilo fotográfico
+
+![Imagen 01](09.png)
+
+**Prompt:** Cambia el bastón de dulce que tiene en sus manos por un fusil
+
+![Imagen 01](10.png)
