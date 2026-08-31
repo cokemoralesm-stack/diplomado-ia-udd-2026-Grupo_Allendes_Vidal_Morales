@@ -15,14 +15,14 @@
 
 **EJERCICIO 2**
 
-![Imagen 01](03.png)
-
 **Prompt:** Director creativo liderando un brainstorming
 
+![Imagen 01](03.png)
+
+**Prompt:** Cambia el tiro de captura de la fotografía
 
 ![Imagen 01](04.png)
 
-**Prompt:** Cambia el tiro de captura de la fotografía
 
 
 ![Imagen 01](05.png)
