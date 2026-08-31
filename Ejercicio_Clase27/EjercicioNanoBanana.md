@@ -46,3 +46,21 @@
 **Prompt:** Cambia el bastón de dulce que tiene en sus manos por un fusil
 
 ![Imagen 01](10.png)
+
+**Prompt:** Agrega zombies saliendo desde el pasto a los costados
+
+![Imagen 01](11.png)
+
+**EJERCICIO 4**
+
+**Prompt:** Genera 3 imágenes en distintas situaciones, manteniendo el personaje principal
+
+![Imagen 01](12.png)
+
+**Prompt:** Sin basarse en las imágenes de arriba genera 3 imágenes usando al personaje principal como producto, transfórmalo en una figura de acción
+
+![Imagen 01](13.png)
+
+**Prompt:** Manteniendo al personaje, genera 3 imágenes en distintas atmósferas/ escenarios y emociones, sin texto
+
+![Imagen 01](14.png)
