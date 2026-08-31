@@ -1,4 +1,5 @@
 EJERCICIO 1
+
 ![Imagen 01](01.png)
 Prompt: Director creativo
 
