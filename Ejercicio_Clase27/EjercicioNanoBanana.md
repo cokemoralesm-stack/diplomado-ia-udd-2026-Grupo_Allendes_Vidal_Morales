@@ -23,18 +23,15 @@
 
 ![Imagen 01](04.png)
 
-
+**Prompt:** Cambia la iluminación a escena nocturna
 
 ![Imagen 01](05.png)
 
-**Prompt:** Cambia la iluminación a escena nocturna
-
+**Prompt:** Cambia el estilo a cyberpunk
 
 ![Imagen 01](06.png)
 
-**Prompt:** Cambia el estilo a cyberpunk
-
+**Prompt:** Cambia la paleta a tonos rosados
 
 ![Imagen 01](07.png)
 
-**Prompt:** Cambia la paleta a tonos rosados
