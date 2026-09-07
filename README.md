@@ -39,4 +39,4 @@ En este repositorio se incorporan los avances, documentación, especificaciones 
 
 ---
 
-*Proyecto desarrollado para el Diplomado en Inteligencia Artificial – Universidad del Desarrollo (UDD).*
+*Proyecto desarrollado para el Diplomado en Inteligencia Artificial Aplicada al Diseño – Universidad del Desarrollo (UDD).*
